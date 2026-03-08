@@ -10,6 +10,9 @@ Lenguajes: Python 3.x
 Modelado: UML (Diagramas de Clase)
 
 🎓 Sobre el Autor
+
 Nombre: David Castro Rodriguez
+
 Carrera: Ingeniería en Sistemas Computacionales
+
 Campus: Instituto Tecnológico de Ensenada (ITE)
